@@ -1,0 +1,31 @@
+body {
+    background-image: url("https://i.ibb.co/SJSR7Pd/Design-sem-nome-29.png");
+}
+
+.container-txtbtn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: #111111;
+    height: 10rem;
+    width: 25rem;
+    margin-left: 5rem;
+    margin-top: 5rem;
+    color: white;
+}
+
+.btn-home {
+    background-color: white !important;
+    width: 9rem !important;
+    height: 2rem !important;
+    margin: 0.4rem !important;
+    margin-top: 1rem !important;
+    border: 0px !important;
+    border-radius: 15px !important;
+    color: #111111 !important;
+    z-index: 1 !important;
+    background: #ffffff !important ;
+}
+
+  
