@@ -1,0 +1,47 @@
+.container-footer {
+    background-color: #111111;
+    color: white !important;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+.container-footer p {
+    
+    text-align: center;
+    align-items: center;
+    color: white !important;
+    font-size: 0.8rem !important;
+}
+
+
+
+.footer-copy {
+    padding: 1rem;
+}
+
+.footer-copy img {
+    width: 1.6rem !important;
+    height: 1.6rem !important;
+
+}
+
+a:-webkit-any-link {
+    color: rgb(248, 239, 222) !important;
+}
+
+.icons-footer{
+    display: flex;
+    justify-content: center;
+}
+
+.icons-footer img {
+    width: 1.6rem;
+    height: 1.6rem;
+    margin: 0.4rem;
+}
+
+.background-white-logo {
+    background-color: white;
+}
