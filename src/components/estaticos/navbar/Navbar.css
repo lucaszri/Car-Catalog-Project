@@ -3,6 +3,7 @@
 }
 
 .texto{
+    width: 100%;
     text-align: center ;
     background-color: #111111;
     color: white;

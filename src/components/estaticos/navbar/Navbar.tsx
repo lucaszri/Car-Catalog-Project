@@ -9,7 +9,7 @@ import { Link } from 'react-router-dom';
 function Navbar() {
 
   return (
-    <Box className='texto'>
+    <Box className='texto-container'>
       <Link to='/' className='text-decoration-none'>
       <Box className='texto'>
         <h4> carstalog</h4>
